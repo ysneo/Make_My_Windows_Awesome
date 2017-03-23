@@ -10,3 +10,4 @@
 > 6. [listary]()
 > 7. [GlassWire]()
 > 8. [7-zip]()
+> 9. [Typora](https://typora.io/)
