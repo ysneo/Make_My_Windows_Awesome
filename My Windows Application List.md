@@ -11,3 +11,5 @@
 > 7. [GlassWire]()
 > 8. [7-zip]()
 > 9. [Typora](https://typora.io/)
+> 10. [AutoHotKey](https://www.autohotkey.com/)
+> 11. [Cmder](http://cmder.net/)
