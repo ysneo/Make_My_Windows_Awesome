@@ -14,3 +14,4 @@
 > 10. [AutoHotKey](https://www.autohotkey.com/)
 > 11. [Cmder](http://cmder.net/)
 > 12. [chocolatey](https://chocolatey.org/)
+> 13. [Internet Download Manager](http://internetdownloadmanager.com/)
