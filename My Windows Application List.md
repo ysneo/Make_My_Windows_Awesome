@@ -15,3 +15,4 @@
 > 11. [Cmder](http://cmder.net/)
 > 12. [chocolatey](https://chocolatey.org/)
 > 13. [Internet Download Manager](http://internetdownloadmanager.com/)
+> 13. [QT Tab Bar](http://qttabbar.wikidot.com/)
