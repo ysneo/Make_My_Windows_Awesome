@@ -4,13 +4,13 @@
 
 [ ] [chrome]()
 
-[ ] [f.lux]()
+[x] [f.lux]()
 
 [ ] [FastStone Capture]() or [ShareX]()
 
 [ ] [Listary]()
 
-[ ] [GlassWire]()
+[x] [GlassWire]()
 
 [ ] [7-zip]()
 
@@ -18,7 +18,7 @@
 
 [ ] [AutoHotKey](https://www.autohotkey.com/)
 
-[ ] [Cmder](http://cmder.net/)
+[x] [Cmder](http://cmder.net/)
 
 [x] [chocolatey](https://chocolatey.org/)
 
