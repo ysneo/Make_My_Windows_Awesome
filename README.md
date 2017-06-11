@@ -1,6 +1,6 @@
 # Comfortable, Efficient life you will have
 
-## Let' start.
+## Let's start.
 
 ### [Chocolatey](https://chocolatey.org/)
 > The package manager for Windows
