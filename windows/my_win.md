@@ -14,3 +14,14 @@
 
 ---
 
+## [gifcam](http://blog.bahraniapps.com/gifcam/)
+> GifCam is easy and fun animated gif making app.
+
+![cam](./../img/gifcamaiming.gif)
+
+---
+
+## [QT Tab Bar](http://qttabbar.wikidot.com/)
+> Extends Explorer by tabs and extra folder views
+
+![qt](./../img/qttab.jpg)

@@ -24,8 +24,8 @@
 
 [ ] [Internet Download Manager](http://internetdownloadmanager.com/)
 
-[ ] [QT Tab Bar](http://qttabbar.wikidot.com/)
+[x] [QT Tab Bar](http://qttabbar.wikidot.com/)
 
 [ ] [bandizip](https://www.bandisoft.com/bandizip/) 
 
-[] [gifcam](http://blog.bahraniapps.com/gifcam/)
+[x] [gifcam](http://blog.bahraniapps.com/gifcam/)
